@@ -13,7 +13,7 @@ function App() {
 
        <Manager/> 
         </div>
-       <Footer/>
+       <Footer />
     </>
   )
 }
